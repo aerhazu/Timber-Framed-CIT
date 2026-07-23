@@ -1,0 +1,6 @@
+{
+  "parent" : ".\/t03",
+  "textures" : {
+    "0" : "block\/stripped_acacia_log"
+  }
+} 

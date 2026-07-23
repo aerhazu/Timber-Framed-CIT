@@ -1,0 +1,6 @@
+{
+	"parent": "./t08",
+	"textures": {
+		"0": "block/stripped_dark_oak_log"
+	}
+}

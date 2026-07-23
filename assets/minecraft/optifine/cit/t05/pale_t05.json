@@ -1,0 +1,6 @@
+{
+	"parent": "./t05",
+	"textures": {
+		"0": "block/stripped_pale_log"
+	}
+}
