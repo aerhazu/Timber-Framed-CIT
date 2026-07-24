@@ -1,0 +1,6 @@
+{
+  "parent" : ".\/t09f",
+  "textures" : {
+    "0" : "block\/stripped_mangrove_log"
+  }
+} 

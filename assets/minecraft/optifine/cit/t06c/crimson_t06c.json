@@ -1,0 +1,6 @@
+{
+  "parent" : ".\/t06c",
+  "textures" : {
+    "0" : "block\/stripped_crimson_stem"
+  }
+} 

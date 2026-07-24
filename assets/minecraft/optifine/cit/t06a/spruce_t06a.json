@@ -1,0 +1,6 @@
+{
+  "parent" : ".\/t06a",
+  "textures" : {
+    "0" : "block\/stripped_spruce_log"
+  }
+} 

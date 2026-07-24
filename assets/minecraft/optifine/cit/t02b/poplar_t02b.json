@@ -1,0 +1,6 @@
+{
+  "parent" : ".\/t02b",
+  "textures" : {
+    "0" : "block\/stripped_poplar_log"
+  }
+} 

@@ -1,0 +1,6 @@
+{
+  "parent" : ".\/t08e",
+  "textures" : {
+    "0" : "block\/stripped_crimson_stem"
+  }
+} 

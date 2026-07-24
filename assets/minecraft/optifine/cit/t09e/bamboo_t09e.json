@@ -1,0 +1,6 @@
+{
+  "parent" : ".\/t09e",
+  "textures" : {
+    "0" : "block\/stripped_bamboo_block"
+  }
+} 

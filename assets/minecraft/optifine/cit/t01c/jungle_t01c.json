@@ -1,0 +1,6 @@
+{
+  "parent" : ".\/t01c",
+  "textures" : {
+    "0" : "block\/stripped_jungle_log"
+  }
+} 

@@ -1,0 +1,6 @@
+{
+  "parent" : ".\/t11b",
+  "textures" : {
+    "0" : "block\/stripped_cherry_log"
+  }
+} 

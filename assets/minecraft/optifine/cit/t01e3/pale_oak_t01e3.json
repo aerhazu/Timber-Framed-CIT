@@ -1,0 +1,6 @@
+{
+  "parent" : ".\/t01e3",
+  "textures" : {
+    "0" : "block\/stripped_pale_oak_log"
+  }
+} 

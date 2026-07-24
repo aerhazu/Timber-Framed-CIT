@@ -1,0 +1,6 @@
+{
+  "parent" : ".\/t09a",
+  "textures" : {
+    "0" : "block\/stripped_birch_log"
+  }
+} 

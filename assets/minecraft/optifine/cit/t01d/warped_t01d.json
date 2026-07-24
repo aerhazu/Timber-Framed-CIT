@@ -1,0 +1,6 @@
+{
+  "parent" : ".\/t01d",
+  "textures" : {
+    "0" : "block\/stripped_warped_stem"
+  }
+} 
